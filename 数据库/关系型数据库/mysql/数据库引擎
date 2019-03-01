@@ -47,7 +47,7 @@ MyISAM：不支持
 InnoDB：支持
 
 InnoDB引擎比较重要的四点：
-1、可移植性，M以ISAM相对比较方便。
+1、可移植性，MyISAM相对比较方便。
 2、事务支持，InnoDB提供事务支持，外部键。
 3、表锁差异，MyISAM只支持表级锁，InnoDB支持行锁。
 4、外键支持，MyISAM不支持外键，InnoDB支持外键。
