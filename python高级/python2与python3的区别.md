@@ -1,9 +1,9 @@
-1.print
+1.print：
 
-# py2 >>> print("hello", "world")   结果为：('hello', 'world') 
-# py3 >>> print("hello", "world")   结果为：hello world
+python2 >>> print("hello", "world")   结果为：('hello', 'world') 
+python3 >>> print("hello", "world")   结果为：hello world
 
-2.输入函数
+2.输入函数：
 
 python2有两个输入函数：input和raw_input。
 input函数返回的数据类型是根据本身自动推导的类型，raw_input返回的数据类型一定是字符串类型。
