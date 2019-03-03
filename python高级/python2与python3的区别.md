@@ -1,7 +1,7 @@
 1.print：
 
-python2 >>> print("hello", "world")   结果为：('hello', 'world') 
-python3 >>> print("hello", "world")   结果为：hello world
+python2 >>> print("hello", "world")   结果为：('hello', 'world') 。
+python3 >>> print("hello", "world")   结果为：hello world。
 
 2.输入函数：
 
