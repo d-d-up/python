@@ -1,4 +1,4 @@
-python的解释器及原理：
+__python的解释器及原理：
 
 python解释器的构成：
 
